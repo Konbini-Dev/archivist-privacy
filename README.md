@@ -22,12 +22,7 @@ This is a **planning-led** project. Responsibilities are split cleanly:
 
 | Role | Owner | Responsibility |
 |------|-------|----------------|
-| Project Manager / Architect | **Claude PM** (this workspace) | Specs, architecture, backlog, handoffs, review, documentation upkeep. **Writes no application code.** |
-| Implementation | **Claude Code** | Executes handoff documents, writes/edits the Flutter code, reports back. |
 | Product owner | **Nate** | Direction, priorities, approvals, final sign-off. |
-
-The full working loop is defined in [`docs/PIPELINE.md`](docs/PIPELINE.md).
-
 ---
 
 ## Document map
