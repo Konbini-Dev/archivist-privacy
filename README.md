@@ -101,7 +101,7 @@ add advertising, analytics, or tracking to this app.
 
 Questions about this policy or the app's handling of data:
 
-<sosa.nathan@gmail.com>
+<kadokonbini@gmail.com>
 
 ---
 
